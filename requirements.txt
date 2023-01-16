@@ -1,7 +1,7 @@
 setuptools
 wheel
 twine
-cibuildwheel==2.11.1
+cibuildwheel==2.12.0
 pytest
 pybind11==2.10.0
 cmake
